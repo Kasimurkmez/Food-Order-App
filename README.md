@@ -1,5 +1,3 @@
 # Food-Order-App
-ReadyJS + Firebase Shopping APP for Food Ordering
-
-
-Live Demo : https://relaxed-douhua-d00f6c.netlify.app/
+Food Order Application Using React
+Live Demo:https://wonderful-dasik-573cfa.netlify.app

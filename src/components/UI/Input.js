@@ -1,5 +1,5 @@
-import React from 'react';
 
+import React from 'react'
 import classes from './Input.module.css';
 
 const Input = React.forwardRef((props, ref) => {
@@ -12,3 +12,4 @@ const Input = React.forwardRef((props, ref) => {
 });
 
 export default Input;
+ 
